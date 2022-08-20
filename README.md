@@ -1,6 +1,6 @@
 # hosting-landing-page
 
-[🌐 Live Preview](https://street-style-landing-page-neon.vercel.app/)
+[🌐 Live Preview](https://hosting-landing-page-lovat.vercel.app/)
 
 - ✅ CSS - complete layout, flexbox
 - ✅ Responsiveness (for all devices)
